@@ -1,4 +1,4 @@
-# cloneInstagram
+# clone_Instagram
 Projeto feito para treinar minhas habilidades em front-end e responsividade no mobile. 
 Fiz esse projeto em conjunto com o curso de front-end da udemy academy
 foi muito importante para "desenferrujar" minhas habilidades de programação.
